@@ -1,6 +1,3 @@
-Here’s a **README** with a concise description and setup instructions for the **AeroSense: Intelligent Smog Tracking & Air Quality Forecasting System** project, formatted for GitHub:
-
----
 
 # AeroSense: Intelligent Smog Tracking & Air Quality Forecasting System
 
